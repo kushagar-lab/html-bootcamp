@@ -1,6 +1,7 @@
 # HTML Bootcamp 🎮
 
-#link:https://kushagar-lab.github.io/html-bootcamp/
+#link:
+https://<kushagar-lab>.github.io/html-bootcamp/
 
 An interactive, gamified HTML bootcamp designed to take you from basic HTML structure to advanced semantic concepts through 8 structured chapters and a live code editor.
 
